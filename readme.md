@@ -10,4 +10,13 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+Install docker:
+https://docs.docker.com/desktop/install/linux-install/
+
+Clone/fork repository:
+https://github.com/ObelusFamily/Anythink-Market-vrjxk
+https://github.com/stile17/Anythink-Market-wilco
+
+Run docker containers:
+docker compose up -d
+
